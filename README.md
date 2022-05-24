@@ -1,7 +1,7 @@
 # Financial Analysis using Python 
 #### Examples from my learning 
 
-Recently, as part of my Data Science and Data Analtics learning, I have spent some good time doing some practical exercises to understand the concepts. Happy to share those here.
+Recently, as part of my Data Science and Data Analytics learning, I have spent some good time doing some practical exercises to understand the concepts. Happy to share those here.
 
 ## Pre requisites
 - Anaconda
